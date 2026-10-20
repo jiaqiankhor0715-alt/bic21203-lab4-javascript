@@ -60,15 +60,23 @@ and handle a button click.
 
 ### Lab 4a - Question 2
 ![Lab 4a Q2](./screenshots/Q2%20SS%201.png)
+![Lab 4a Q2](./screenshots/Q2%20SS%202.png)
+![Lab 4a Q2](./screenshots/Q2%20SS%203.png)
+![Lab 4a Q2](./screenshots/Q2%20SS%204.png)
+![Lab 4a Q2](./screenshots/Q2%20SS%205.png)
+![Lab 4a Q2](./screenshots/Q2%20SS%206.png)
 
 ### Lab 4a - Question 3
 ![Lab 4a Q3](./screenshots/Q3%20SS%201.png)
+![Lab 4a Q3](./screenshots/Q3%20SS%202.png)
 
 ### Lab 4b - Question 1
 ![Lab 4b Q1](./screenshots/booksjson%201.png)
+![Lab 4b Q1](./screenshots/booksjson%202.png)
 
 ### Lab 4b - Question 2
 ![Lab 4b Q2](./screenshots/books.html.png)
 
 ### Lab 4b - Question 3
 ![Lab 4b Q3](./screenshots/jquery%201.png)
+![Lab 4b Q3](./screenshots/jquery%202.png)
