@@ -71,8 +71,8 @@ and handle a button click.
 ![Lab 4a Q3](./screenshots/Q3%20SS%202.png)
 
 ### Lab 4b - Question 1
-![Lab 4b Q1](./screenshots/booksjson%201.png)
-![Lab 4b Q1](./screenshots/booksjson%202.png)
+![Lab 4b Q1](./screenshots/books.json%201.png)
+![Lab 4b Q1](./screenshots/books.json%202.png)
 
 ### Lab 4b - Question 2
 ![Lab 4b Q2](./screenshots/books.html.png)
