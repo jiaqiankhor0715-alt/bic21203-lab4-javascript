@@ -55,19 +55,19 @@ and handle a button click.
 ## Lab Screenshots
 
 ### Lab 4a - Question 1
-![Lab 4a Q1](./screenshots/Lab4a-Q1.png)
+![Lab 4a Q1](./screenshots/Q1SCREENSHOT.png)
 
 ### Lab 4a - Question 2
-![Lab 4a Q2](./screenshots/Lab4a-Q2-5.png)
+![Lab 4a Q2](./screenshots/Q2SS1.png)
 
 ### Lab 4a - Question 3
-![Lab 4a Q3](./screenshots/Lab4a-Q3.png)
+![Lab 4a Q3](./screenshots/Q3SS1.png)
 
 ### Lab 4b - Question 1
-![Lab 4b Q1](./screenshots/Lab4b-Q1.png)
+![Lab 4b Q1](./screenshots/booksjson1.png)
 
 ### Lab 4b - Question 2
-![Lab 4b Q2](./screenshots/Lab4b-Q2.png)
+![Lab 4b Q2](./screenshots/books.html.png)
 
 ### Lab 4b - Question 3
-![Lab 4b Q3](./screenshots/Lab4b-Q3.png)
+![Lab 4b Q3](./screenshots/jquery1.png)
