@@ -55,13 +55,13 @@ and handle a button click.
 ## Lab Screenshots
 
 ### Lab 4a - Question 1
-![Lab 4a Q1](./screenshots/Q1SCREENSHOT.png)
+![Lab 4a Q1](./screenshots/Q1%20SCREENSHOT.png)
 
 ### Lab 4a - Question 2
-![Lab 4a Q2](./screenshots/Q2SS1.png)
+![Lab 4a Q2](./screenshots/Q2%20SS%201.png)
 
 ### Lab 4a - Question 3
-![Lab 4a Q3](./screenshots/Q3SS1.png)
+![Lab 4a Q3](./screenshots/Q3%20SS%201.png)
 
 ### Lab 4b - Question 1
 ![Lab 4b Q1](./screenshots/booksjson1.png)
@@ -70,4 +70,4 @@ and handle a button click.
 ![Lab 4b Q2](./screenshots/books.html.png)
 
 ### Lab 4b - Question 3
-![Lab 4b Q3](./screenshots/jquery1.png)
+![Lab 4b Q3](./screenshots/jquery%201.png)
