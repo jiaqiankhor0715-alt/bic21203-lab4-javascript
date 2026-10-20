@@ -55,7 +55,7 @@ and handle a button click.
 ## Screenshots
 
 ### Lab 4a - Question 1
-![Question 1](screenshots/Q1 SCREENSHOT.png)
+![Question 1](screenshots/[Q1 SCREENSHOT](https://github.com/jiaqiankhor0715-alt/bic21203-lab4-javascript/blob/main/screenshots/Q1%20SCREENSHOT.png)
 
 ### Lab 4a - Question 2
 ![Question 2](screenshots/Q2 SS 1.png)
