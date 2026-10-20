@@ -52,23 +52,22 @@ and handle a button click.
 5. Ensure an internet connection is available
    for the jQuery CDN.
 
-## Screenshots
+## Lab Screenshots
 
 ### Lab 4a - Question 1
-![Question 1](screenshots/[Q1 SCREENSHOT](https://github.com/jiaqiankhor0715-alt/bic21203-lab4-javascript/blob/main/screenshots/Q1%20SCREENSHOT.png)
+![Lab 4a Q1](./screenshots/Lab4a-Q1.png)
 
 ### Lab 4a - Question 2
-![Question 2](screenshots/Q2 SS 1.png)
+![Lab 4a Q2](./screenshots/Lab4a-Q2-5.png)
 
 ### Lab 4a - Question 3
-![Question 3](screenshots/Q3 SS 1.png)
+![Lab 4a Q3](./screenshots/Lab4a-Q3.png)
 
 ### Lab 4b - Question 1
-![JSON Data](screenshots/books.json 1.png)
+![Lab 4b Q1](./screenshots/Lab4b-Q1.png)
 
 ### Lab 4b - Question 2
-![JSON Output](screenshots/books.html.png)
+![Lab 4b Q2](./screenshots/Lab4b-Q2.png)
 
 ### Lab 4b - Question 3
-![jQuery Output](screenshots/jquery 1.png)# bic21203-lab4-javascript
-Lab 4a JavaScript and Lab 4b JSON and jQuery
+![Lab 4b Q3](./screenshots/Lab4b-Q3.png)
